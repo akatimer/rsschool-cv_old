@@ -1,13 +1,21 @@
 Timur
 
 Contacts
+
 Date of birth: 27.02.1988
+
 Location: Kharkiv
+
 Relocation: yes
+
 Email: akatimer@gmail.com
+
 Telegram: @akatimer
+
 Discord: @akatimer
+
 Languages
+
 English - upper-intermediate
 
 Ukranian - native
@@ -15,6 +23,7 @@ Ukranian - native
 Russian - native
 
 Professional Skills
+
 Excellent communication skills. Negotiating of varying complexity at any level.
 
 Translation any type of user story into a technical task.
@@ -29,7 +38,9 @@ Jira; Trello; Asana;
 Notion; ClickUp
 Ticket Software
 CRM
+
 Education
+
 Kharkov Engineering and Pedagogical academy.
 
 Faculty: Computer technologies in management and training.
@@ -37,7 +48,9 @@ Faculty: Computer technologies in management and training.
 Specialty: Computer technologies in management and training.
 
 Projects
+
 Github link
+
 Code
           
             let humanYears = prompt(Number("Enter human age"));
