@@ -1,0 +1,53 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.main-header, .main-footer, .main-container{
+  margin: 0 auto;
+}
+.main-header, .main-footer{
+  max-width: 1200px;
+}
+.main-container{
+  max-width: 900px;
+}
+.owlimg{
+  width: 225px;
+  height: 225px;
+}
+.nav-ul, .main-footer{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+}
+.ul-li-main-nav{
+  padding: 0 30px;
+  line-height: 40px;
+  text-decoration: none;
+}
+.cv-general{
+ width: 50%;
+}
+.main-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.cv-name{
+  justify-content: center;
+  display: flex;
+}
+.footer-img-github, .footer-img-rs{
+  height: 107px;
+  padding: 0 100px;
+  line-height: 50px;
+}
+.footer-img-github{
+ width: 107px;
+}
+.footer-year{
+  font-size: 50px;
+  font-weight: bold;
+  width: 107px;
+}
